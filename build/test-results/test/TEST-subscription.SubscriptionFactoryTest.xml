@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="subscription.SubscriptionFactoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-04T17:11:44" hostname="M1-LM-0032.local" time="0.031">
+  <properties/>
+  <testcase name="testCreateSubscriptionWithUnknownPassengerType()" classname="subscription.SubscriptionFactoryTest" time="0.021"/>
+  <testcase name="testCreatePremiumSubscription()" classname="subscription.SubscriptionFactoryTest" time="0.004"/>
+  <testcase name="testCreateGoldSubscription()" classname="subscription.SubscriptionFactoryTest" time="0.002"/>
+  <testcase name="testCreateStandardSubscription()" classname="subscription.SubscriptionFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
